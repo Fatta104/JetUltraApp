@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JetUltraApp</string>
+    <string name="back">Back</string>
+    <string name="header">Ultra App</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="empty_fav">No Favorite Ultraman Yet</string>
+    <string name="search_ultra">Search Ultraman</string>
+    <string name="my_name">Fatta Rahmanaufal</string>
+    <string name="my_email">fattanaufal16@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="category_list">Ultra List Menu</string>
+    <string name="menu_about">About</string>
+    <string name="picture_profile">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:3b69990020596e9d636ccd3d2ad44d0620230823125706.png</string>
+</resources>
